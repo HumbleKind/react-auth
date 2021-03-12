@@ -1,7 +1,8 @@
 import React from 'react';
+import SignUp from './SignUp';
 
 function App() {
-  return 'Hello World';
+  return <SignUp />;
 }
 
 export default App;
